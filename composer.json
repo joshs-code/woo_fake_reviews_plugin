@@ -1,0 +1,9 @@
+{
+    "name": "joshua/woo-fake-reviews",
+    "autoload": {
+        "psr-4": {
+            "Joshua\\WooFakeReviews\\": "src/"
+        }
+    },
+    "require": {}
+}
